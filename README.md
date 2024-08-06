@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Screenshot from 2024-08-06 10-32-09](https://github.com/user-attachments/assets/062bb5fc-3e11-48d0-90bc-cfdd7e8b202b)
+
 ## Available Scripts
 
 In the project directory, you can run:
